@@ -2,7 +2,7 @@
 permalink: /
 layout: archive_wide
 title: "About Me"
-excerpt: "Welcome to Zixing's homepage!"
+excerpt: "Welcome to Yunwen's homepage!"
 author_profile: true
 redirect_from: 
   - /about/
